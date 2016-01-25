@@ -1,0 +1,10 @@
+{
+  "name": "nsPopover",
+  "version": "1.0",
+  "homepage": "https://github.com/viiopen/viiNsPopover",
+  "description": "Popover for angularjs library",
+  "authors": [
+    "Neylor Ohmaly <nohros.ceo@gmail.com>"
+  ],
+  "license": "MIT"
+}
